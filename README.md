@@ -12,9 +12,9 @@
 + **``itemspawn (item_id) / (item_id) (x) (y) (z)``**
 + **``kick (id) [reason]``**
 + **``pos / position``**
-+ **``ragdoll / ragdoll (id)``
-+ **``randomtp (id / all)``
-+ **``roomcolor (color)``
++ **``ragdoll / ragdoll (id)``**
++ **``randomtp (id / all)``**
++ **``roomcolor (color)``**
 + **``size ( id / all ) (x) (y) (z)``**
 + **``scale ( id / all ) (value)``**
 + **``tp (id / all) (x) (y) (z)``**
